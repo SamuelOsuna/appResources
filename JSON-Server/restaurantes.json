@@ -1,0 +1,336 @@
+{
+  "restaurantes": [
+    {
+      "id": "dsaff",
+      "nombre": "La Ratatouille",
+      "direccion": "Calle Lavapiés, 7",
+      "telefono": "666777888",
+      "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Restaurantes/Rest_Rata.png",
+      "mesas": [
+        {
+          "id": 1,
+          "comensales": 6,
+          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa6.png"
+        },
+        {
+          "id": 2,
+          "comensales": 6,
+          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa6.png"
+        },
+        {
+          "id": 3,
+          "comensales": 4,
+          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa4.png"
+        },
+        {
+          "id": 4,
+          "comensales": 4,
+          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa4.png"
+        },
+        {
+          "id": 5,
+          "comensales": 6,
+          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa6.png"
+        },
+        {
+          "id": 6,
+          "comensales": 6,
+          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa6.png"
+        },
+        {
+          "id": 7,
+          "comensales": 4,
+          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa4.png"
+        },
+        {
+          "id": 8,
+          "comensales": 4,
+          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa4.png"
+        },
+        {
+          "id": 9,
+          "comensales": 6,
+          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa6.png"
+        },
+        {
+          "id": 10,
+          "comensales": 6,
+          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa6.png"
+        },
+        {
+          "id": 11,
+          "comensales": 4,
+          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa4.png"
+        },
+        {
+          "id": 12,
+          "comensales": 4,
+          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa4.png"
+        }
+      ]
+    },
+    {
+      "id": "wer1w",
+      "nombre": "The Frosty Palace",
+      "direccion": "Calle Lavapiés, 8",
+      "telefono": "777888999",
+      "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Restaurantes/Rest_Frosty.jpg",
+      "mesas": [
+        {
+          "id": 1,
+          "comensales": 6,
+          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa6.png"
+        },
+        {
+          "id": 2,
+          "comensales": 6,
+          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa6.png"
+        },
+        {
+          "id": 3,
+          "comensales": 4,
+          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa4.png"
+        },
+        {
+          "id": 4,
+          "comensales": 4,
+          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa4.png"
+        }
+      ]
+    },
+    {
+      "id": "nbnf",
+      "nombre": "La Cantina",
+      "direccion": "Mos Eisley, Tatooine",
+      "telefono": "666777888",
+      "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Restaurantes/Rest_Cantina.png",
+      "mesas": [
+        {
+          "id": 1,
+          "comensales": 6,
+          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa6.png"
+        },
+        {
+          "id": 2,
+          "comensales": 6,
+          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa6.png"
+        },
+        {
+          "id": 3,
+          "comensales": 4,
+          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa4.png"
+        },
+        {
+          "id": 4,
+          "comensales": 4,
+          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa4.png"
+        }
+      ]
+    },
+    {
+      "id": "ygnkm",
+      "nombre": "Central Perk",
+      "direccion": "Central Park, 43",
+      "telefono": "666777888",
+      "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Restaurantes/Rest_Central.jpg",
+      "mesas": [
+        {
+          "id": 1,
+          "comensales": 6,
+          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa6.png"
+        },
+        {
+          "id": 2,
+          "comensales": 6,
+          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa6.png"
+        },
+        {
+          "id": 3,
+          "comensales": 4,
+          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa4.png"
+        },
+        {
+          "id": 4,
+          "comensales": 4,
+          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa4.png"
+        }
+      ]
+    },
+    {
+      "id": "npne",
+      "nombre": "Pub MacLaren",
+      "direccion": "Calle santiago, 20",
+      "telefono": "666777888",
+      "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Restaurantes/Rest_MacLaren.jpg",
+      "mesas": [
+        {
+          "id": 1,
+          "comensales": 6,
+          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa6.png"
+        },
+        {
+          "id": 2,
+          "comensales": 6,
+          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa6.png"
+        },
+        {
+          "id": 3,
+          "comensales": 4,
+          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa4.png"
+        },
+        {
+          "id": 4,
+          "comensales": 4,
+          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa4.png"
+        }
+      ]
+    },
+    {
+      "id": "ekdfc",
+      "nombre": "The Leaky Cauldron",
+      "direccion": "Diagon Alley, 20",
+      "telefono": "666777888",
+      "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Restaurantes/Rest_Cauldron.jpg",
+      "mesas": [
+        {
+          "id": 1,
+          "comensales": 6,
+          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa6.png"
+        },
+        {
+          "id": 2,
+          "comensales": 6,
+          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa6.png"
+        },
+        {
+          "id": 3,
+          "comensales": 4,
+          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa4.png"
+        },
+        {
+          "id": 4,
+          "comensales": 4,
+          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa4.png"
+        }
+      ]
+    }
+  ],
+  "reservas": [
+    {
+      "id_mesa": 2,
+      "id_rest": "ekdfc",
+      "id_usuario": "adas",
+      "nombre": "The Leaky Cauldron",
+      "fecha": "17/11/2020",
+      "hora": "20:00 - Cierre",
+      "tipo": "Cena",
+      "aceptada": true,
+      "id": 1
+    },
+    {
+      "id_mesa": 13,
+      "id_rest": "dsaff",
+      "id_usuario": "adas",
+      "nombre": "La Ratatouille",
+      "fecha": "1/11/2020",
+      "hora": "14:00 - 20:00",
+      "tipo": "Almuerzo",
+      "aceptada": false,
+      "id": 2
+    },
+    {
+      "id_mesa": 2,
+      "id_rest": "ygnkm",
+      "id_usuario": "adas",
+      "nombre": "Central Perk",
+      "fecha": "2/11/2020",
+      "hora": "14:00 - 20:00",
+      "tipo": "Almuerzo",
+      "aceptada": null,
+      "id": 3
+    },
+    {
+      "id_mesa": 6,
+      "id_usuario": "werw",
+      "id_rest": "dsaff",
+      "nombre": "La Ratatouille",
+      "fecha": "17/12/2020",
+      "hora": "14:00 - 20:00",
+      "tipo": "Almuerzo",
+      "aceptada": null,
+      "id": 5
+    },
+    {
+      "id_mesa": 1,
+      "id_usuario": "werw",
+      "id_rest": "ygnkm",
+      "nombre": "Central Perk",
+      "fecha": "31/10/2020",
+      "hora": "20:00 - Cierre",
+      "tipo": "Cena",
+      "aceptada": null,
+      "id": 6
+    },
+    {
+      "id_mesa": 5,
+      "id_usuario": "lkjh",
+      "id_rest": "nbnf",
+      "nombre": "La Cantina",
+      "fecha": "31/10/2020",
+      "hora": "20:00 - Cierre",
+      "tipo": "Cena",
+      "aceptada": null,
+      "id": 7
+    }
+  ],
+  "usuarios": [
+    {
+      "id": "adas",
+      "nombre": "Ismael",
+      "email": "ismaelalvarez@protonmail.com",
+      "contrasena": "ismael",
+      "restaurante": false,
+      "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Usuarios/User_Ismael.png"
+    },
+    {
+      "id": "werw",
+      "nombre": "Isaac",
+      "email": "isaacrodriguez@fakemail.com",
+      "contrasena": "isaac",
+      "restaurante": true,
+      "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Usuarios/User_Isaac.png"
+    },
+    {
+      "id": "lkjh",
+      "nombre": "Ezequiel",
+      "email": "ezequielmartinez@yahoomail.com",
+      "contrasena": "ezequiel",
+      "restaurante": false,
+      "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Usuarios/User_Ezequiel.png"
+    },
+    {
+      "nombre": "Moises",
+      "email": "moisespaez@freemail.com",
+      "contrasena": "moises",
+      "restaurante": true,
+      "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Usuarios/User_Moises.png",
+      "id": "xShPFJM"
+    },
+    {
+      "nombre": "Samuel",
+      "email": "samuel@fakemail.com",
+      "contrasena": "samuel",
+      "restaurante": false,
+      "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Usuarios/User_Samuel.png",
+      "id": "5oshe10"
+    },
+    {
+      "nombre": "Rebeca",
+      "email": "rebeca@email.com",
+      "contrasena": "rebeca",
+      "restaurante": false,
+      "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Usuarios/User_Rebeca.png",
+      "id": "4rDY1TT"
+    }
+  ]
+}
