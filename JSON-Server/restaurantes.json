@@ -10,62 +10,85 @@
         {
           "id": 1,
           "comensales": 6,
-          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa6.png"
+          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa6.png",
+		  "imagencolor": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa6Color.png"
         },
         {
           "id": 2,
           "comensales": 6,
-          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa6.png"
+          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa6.png",
+		  "imagencolor": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa6Color.png"
+
         },
         {
           "id": 3,
           "comensales": 4,
-          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa4.png"
+          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa4.png",
+		  "imagencolor": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa4Color.png"
+
         },
         {
           "id": 4,
           "comensales": 4,
-          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa4.png"
+          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa4.png",
+		  "imagencolor": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa4Color.png"
+
         },
         {
           "id": 5,
           "comensales": 6,
-          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa6.png"
+          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa6.png",
+		  "imagencolor": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa6Color.png"
+
         },
         {
           "id": 6,
           "comensales": 6,
-          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa6.png"
+          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa6.png",
+		  "imagencolor": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa6Color.png"
+
         },
         {
           "id": 7,
           "comensales": 4,
-          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa4.png"
+          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa4.png",
+		  "imagencolor": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa4Color.png"
+
         },
         {
           "id": 8,
           "comensales": 4,
-          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa4.png"
+          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa4.png",
+		  "imagencolor": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa4Color.png"
+
         },
         {
           "id": 9,
           "comensales": 6,
-          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa6.png"
+          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa6.png",
+		  "imagencolor": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa6Color.png"
+
         },
         {
           "id": 10,
           "comensales": 6,
-          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa6.png"
+          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa6.png",
+		  "imagencolor": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa6Color.png"
+
         },
         {
           "id": 11,
           "comensales": 4,
-          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa4.png"
+          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa4.png",
+		  "imagencolor": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa4Color.png"
+
         },
         {
           "id": 12,
           "comensales": 4,
-          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa4.png"
+          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa4.png",
+		  "imagencolor": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa4Color.png"
+
         }
       ]
     },
@@ -79,22 +102,30 @@
         {
           "id": 1,
           "comensales": 6,
-          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa6.png"
+          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa6.png",
+		  "imagencolor": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa6Color.png"
+
         },
         {
           "id": 2,
           "comensales": 6,
-          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa6.png"
+          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa6.png",
+		  "imagencolor": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa6Color.png"
+
         },
         {
           "id": 3,
           "comensales": 4,
-          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa4.png"
+          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa4.png",
+		  "imagencolor": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa4Color.png"
+
         },
         {
           "id": 4,
           "comensales": 4,
-          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa4.png"
+          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa4.png",
+		  "imagencolor": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa4Color.png"
+
         }
       ]
     },
@@ -108,22 +139,30 @@
         {
           "id": 1,
           "comensales": 6,
-          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa6.png"
+          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa6.png",
+		  "imagencolor": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa6Color.png"
+
         },
         {
           "id": 2,
           "comensales": 6,
-          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa6.png"
+          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa6.png",
+		  "imagencolor": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa6Color.png"
+
         },
         {
           "id": 3,
           "comensales": 4,
-          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa4.png"
+          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa4.png",
+		  "imagencolor": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa4Color.png"
+
         },
         {
           "id": 4,
           "comensales": 4,
-          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa4.png"
+          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa4.png",
+		  "imagencolor": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa4Color.png"
+
         }
       ]
     },
@@ -137,22 +176,30 @@
         {
           "id": 1,
           "comensales": 6,
-          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa6.png"
+          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa6.png",
+		  "imagencolor": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa6Color.png"
+
         },
         {
           "id": 2,
           "comensales": 6,
-          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa6.png"
+          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa6.png",
+		  "imagencolor": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa6Color.png"
+
         },
         {
           "id": 3,
           "comensales": 4,
-          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa4.png"
+          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa4.png",
+		  "imagencolor": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa4Color.png"
+
         },
         {
           "id": 4,
           "comensales": 4,
-          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa4.png"
+          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa4.png",
+		  "imagencolor": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa4Color.png"
+
         }
       ]
     },
@@ -166,22 +213,30 @@
         {
           "id": 1,
           "comensales": 6,
-          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa6.png"
+          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa6.png",
+		  "imagencolor": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa6Color.png"
+
         },
         {
           "id": 2,
           "comensales": 6,
-          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa6.png"
+          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa6.png",
+		  "imagencolor": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa6Color.png"
+
         },
         {
           "id": 3,
           "comensales": 4,
-          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa4.png"
+          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa4.png",
+		  "imagencolor": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa4Color.png"
+
         },
         {
           "id": 4,
           "comensales": 4,
-          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa4.png"
+          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa4.png",
+		  "imagencolor": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa4Color.png"
+
         }
       ]
     },
@@ -195,22 +250,30 @@
         {
           "id": 1,
           "comensales": 6,
-          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa6.png"
+          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa6.png",
+		  "imagencolor": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa6Color.png"
+
         },
         {
           "id": 2,
           "comensales": 6,
-          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa6.png"
+          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa6.png",
+		  "imagencolor": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa6Color.png"
+
         },
         {
           "id": 3,
           "comensales": 4,
-          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa4.png"
+          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa4.png",
+		  "imagencolor": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa4Color.png"
+
         },
         {
           "id": 4,
           "comensales": 4,
-          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa4.png"
+          "imagen": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa4.png",
+		  "imagencolor": "https://raw.githubusercontent.com/SamuelOsuna/appResources/main/Mesas/Mesa4Color.png"
+
         }
       ]
     }
